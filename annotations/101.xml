@@ -3,7 +3,7 @@
     <filename>101.png</filename>
     <size>
         <width>400</width>
-        <height>236</height>
+        <height>230</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1</xmin>
-            <ymin>45</ymin>
-            <xmax>18</xmax>
-            <ymax>68</ymax>
+            <xmin>20</xmin>
+            <ymin>51</ymin>
+            <xmax>30</xmax>
+            <ymax>64</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,23 +27,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>89</xmin>
-            <ymin>38</ymin>
-            <xmax>115</xmax>
-            <ymax>62</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>without_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>161</xmin>
-            <ymin>20</ymin>
-            <xmax>195</xmax>
-            <ymax>54</ymax>
+            <xmin>107</xmin>
+            <ymin>21</ymin>
+            <xmax>126</xmax>
+            <ymax>44</ymax>
         </bndbox>
     </object>
     <object>
@@ -53,10 +40,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>104</xmin>
-            <ymin>104</ymin>
-            <xmax>182</xmax>
-            <ymax>175</ymax>
+            <xmin>185</xmin>
+            <ymin>89</ymin>
+            <xmax>201</xmax>
+            <ymax>108</ymax>
         </bndbox>
     </object>
     <object>
@@ -66,23 +53,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>309</xmin>
-            <ymin>77</ymin>
-            <xmax>375</xmax>
-            <ymax>136</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>without_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>267</xmin>
-            <ymin>14</ymin>
-            <xmax>287</xmax>
-            <ymax>32</ymax>
+            <xmin>335</xmin>
+            <ymin>10</ymin>
+            <xmax>357</xmax>
+            <ymax>36</ymax>
         </bndbox>
     </object>
 </annotation>

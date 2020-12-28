@@ -3,7 +3,7 @@
     <filename>359.png</filename>
     <size>
         <width>400</width>
-        <height>267</height>
+        <height>225</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,62 +14,49 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>65</xmin>
-            <ymin>78</ymin>
-            <xmax>97</xmax>
-            <ymax>114</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>111</xmin>
-            <ymin>109</ymin>
-            <xmax>130</xmax>
-            <ymax>130</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>182</xmin>
-            <ymin>41</ymin>
-            <xmax>221</xmax>
-            <ymax>83</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>212</xmin>
-            <ymin>79</ymin>
-            <xmax>233</xmax>
-            <ymax>100</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>302</xmin>
-            <ymin>53</ymin>
-            <xmax>341</xmax>
+            <xmin>159</xmin>
+            <ymin>55</ymin>
+            <xmax>194</xmax>
             <ymax>94</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>219</xmin>
+            <ymin>89</ymin>
+            <xmax>245</xmax>
+            <ymax>120</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>137</xmin>
+            <ymin>114</ymin>
+            <xmax>172</xmax>
+            <ymax>142</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>311</xmin>
+            <ymin>86</ymin>
+            <xmax>327</xmax>
+            <ymax>105</ymax>
         </bndbox>
     </object>
 </annotation>

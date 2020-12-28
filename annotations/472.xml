@@ -2,8 +2,8 @@
     <folder>images</folder>
     <filename>472.png</filename>
     <size>
-        <width>400</width>
-        <height>267</height>
+        <width>301</width>
+        <height>400</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,23 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>81</xmin>
-            <ymin>92</ymin>
-            <xmax>167</xmax>
-            <ymax>190</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>192</xmin>
-            <ymin>96</ymin>
-            <xmax>268</xmax>
-            <ymax>171</ymax>
+            <xmin>122</xmin>
+            <ymin>226</ymin>
+            <xmax>233</xmax>
+            <ymax>374</ymax>
         </bndbox>
     </object>
 </annotation>

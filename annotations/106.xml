@@ -3,7 +3,7 @@
     <filename>106.png</filename>
     <size>
         <width>400</width>
-        <height>267</height>
+        <height>300</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,23 +14,49 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>184</xmin>
-            <ymin>69</ymin>
-            <xmax>199</xmax>
-            <ymax>87</ymax>
+            <xmin>24</xmin>
+            <ymin>79</ymin>
+            <xmax>56</xmax>
+            <ymax>107</ymax>
         </bndbox>
     </object>
     <object>
-        <name>without_mask</name>
+        <name>with_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>205</xmin>
-            <ymin>67</ymin>
-            <xmax>216</xmax>
-            <ymax>78</ymax>
+            <xmin>92</xmin>
+            <ymin>44</ymin>
+            <xmax>125</xmax>
+            <ymax>79</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>166</xmin>
+            <ymin>65</ymin>
+            <xmax>203</xmax>
+            <ymax>100</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>284</xmin>
+            <ymin>39</ymin>
+            <xmax>343</xmax>
+            <ymax>98</ymax>
         </bndbox>
     </object>
 </annotation>

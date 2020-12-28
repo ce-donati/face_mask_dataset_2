@@ -3,7 +3,7 @@
     <filename>6.png</filename>
     <size>
         <width>400</width>
-        <height>300</height>
+        <height>276</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,23 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>42</xmin>
-            <ymin>54</ymin>
-            <xmax>94</xmax>
-            <ymax>110</ymax>
+            <xmin>44</xmin>
+            <ymin>143</ymin>
+            <xmax>53</xmax>
+            <ymax>156</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>mask_weared_incorrect</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>134</xmin>
+            <ymin>118</ymin>
+            <xmax>143</xmax>
+            <ymax>128</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,10 +40,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>188</xmin>
-            <ymin>46</ymin>
-            <xmax>236</xmax>
-            <ymax>106</ymax>
+            <xmin>210</xmin>
+            <ymin>101</ymin>
+            <xmax>220</xmax>
+            <ymax>116</ymax>
         </bndbox>
     </object>
     <object>
@@ -40,10 +53,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>261</xmin>
-            <ymin>88</ymin>
-            <xmax>303</xmax>
-            <ymax>130</ymax>
+            <xmin>271</xmin>
+            <ymin>127</ymin>
+            <xmax>281</xmax>
+            <ymax>140</ymax>
         </bndbox>
     </object>
     <object>
@@ -53,10 +66,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>368</xmin>
-            <ymin>112</ymin>
-            <xmax>400</xmax>
-            <ymax>151</ymax>
+            <xmin>320</xmin>
+            <ymin>113</ymin>
+            <xmax>333</xmax>
+            <ymax>127</ymax>
         </bndbox>
     </object>
 </annotation>
