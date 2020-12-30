@@ -1,1 +1,36 @@
-<annotation><folder>images</folder><filename>599.png</filename><size><width>522</width><height>396</height><depth>3</depth></size><object><name>with_mask</name><bndbox><xmin>312</xmin><ymin>50</ymin><xmax>418</xmax><ymax>173</ymax></bndbox></object><object><name>mask_weared_incorrect</name><bndbox><xmin>23</xmin><ymin>26</ymin><xmax>109</xmax><ymax>142</ymax></bndbox></object><object><name>mask_weared_incorrect</name><bndbox><xmin>386</xmin><ymin>118</ymin><xmax>521</xmax><ymax>390</ymax></bndbox></object></annotation>
+<annotation>
+    <folder>images</folder>
+    <filename>599.png</filename>
+    <size>
+        <width>267</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>without_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>89</xmin>
+            <ymin>193</ymin>
+            <xmax>149</xmax>
+            <ymax>258</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>without_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>249</xmin>
+            <ymin>300</ymin>
+            <xmax>267</xmax>
+            <ymax>349</ymax>
+        </bndbox>
+    </object>
+</annotation>

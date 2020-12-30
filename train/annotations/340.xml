@@ -2,61 +2,61 @@
     <folder>images</folder>
     <filename>340.png</filename>
     <size>
-        <width>267</width>
-        <height>400</height>
+        <width>400</width>
+        <height>257</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-        <name>without_mask</name>
+        <name>with_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1</xmin>
-            <ymin>248</ymin>
-            <xmax>15</xmax>
-            <ymax>273</ymax>
+            <xmin>107</xmin>
+            <ymin>67</ymin>
+            <xmax>136</xmax>
+            <ymax>95</ymax>
         </bndbox>
     </object>
     <object>
-        <name>without_mask</name>
+        <name>mask_weared_incorrect</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>12</xmin>
-            <ymin>240</ymin>
-            <xmax>36</xmax>
-            <ymax>269</ymax>
+            <xmin>157</xmin>
+            <ymin>80</ymin>
+            <xmax>165</xmax>
+            <ymax>94</ymax>
         </bndbox>
     </object>
     <object>
-        <name>without_mask</name>
+        <name>with_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>66</xmin>
-            <ymin>200</ymin>
-            <xmax>108</xmax>
-            <ymax>248</ymax>
+            <xmin>286</xmin>
+            <ymin>70</ymin>
+            <xmax>300</xmax>
+            <ymax>84</ymax>
         </bndbox>
     </object>
     <object>
-        <name>without_mask</name>
+        <name>with_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>216</xmin>
-            <ymin>272</ymin>
-            <xmax>257</xmax>
-            <ymax>318</ymax>
+            <xmin>319</xmin>
+            <ymin>68</ymin>
+            <xmax>356</xmax>
+            <ymax>104</ymax>
         </bndbox>
     </object>
 </annotation>

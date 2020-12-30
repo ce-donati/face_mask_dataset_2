@@ -3,7 +3,7 @@
     <filename>299.png</filename>
     <size>
         <width>400</width>
-        <height>282</height>
+        <height>200</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>139</xmin>
-            <ymin>213</ymin>
-            <xmax>153</xmax>
-            <ymax>231</ymax>
+            <xmin>55</xmin>
+            <ymin>31</ymin>
+            <xmax>80</xmax>
+            <ymax>62</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,10 +27,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>191</xmin>
-            <ymin>117</ymin>
-            <xmax>222</xmax>
-            <ymax>154</ymax>
+            <xmin>132</xmin>
+            <ymin>61</ymin>
+            <xmax>183</xmax>
+            <ymax>124</ymax>
         </bndbox>
     </object>
     <object>
@@ -40,10 +40,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>307</xmin>
-            <ymin>123</ymin>
-            <xmax>340</xmax>
-            <ymax>161</ymax>
+            <xmin>232</xmin>
+            <ymin>57</ymin>
+            <xmax>279</xmax>
+            <ymax>108</ymax>
         </bndbox>
     </object>
 </annotation>

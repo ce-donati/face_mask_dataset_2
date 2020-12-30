@@ -3,7 +3,7 @@
     <filename>409.png</filename>
     <size>
         <width>400</width>
-        <height>267</height>
+        <height>261</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>146</xmin>
-            <ymin>106</ymin>
-            <xmax>157</xmax>
-            <ymax>123</ymax>
+            <xmin>50</xmin>
+            <ymin>81</ymin>
+            <xmax>68</xmax>
+            <ymax>99</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,10 +27,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>192</xmin>
-            <ymin>75</ymin>
-            <xmax>205</xmax>
-            <ymax>95</ymax>
+            <xmin>96</xmin>
+            <ymin>47</ymin>
+            <xmax>109</xmax>
+            <ymax>63</ymax>
         </bndbox>
     </object>
     <object>
@@ -40,10 +40,23 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>243</xmin>
-            <ymin>122</ymin>
-            <xmax>256</xmax>
-            <ymax>141</ymax>
+            <xmin>212</xmin>
+            <ymin>56</ymin>
+            <xmax>230</xmax>
+            <ymax>77</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>354</xmin>
+            <ymin>42</ymin>
+            <xmax>372</xmax>
+            <ymax>67</ymax>
         </bndbox>
     </object>
 </annotation>

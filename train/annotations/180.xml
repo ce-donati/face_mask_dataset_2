@@ -3,21 +3,21 @@
     <filename>180.png</filename>
     <size>
         <width>400</width>
-        <height>267</height>
+        <height>256</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-        <name>without_mask</name>
+        <name>with_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>14</xmin>
-            <ymin>185</ymin>
-            <xmax>22</xmax>
-            <ymax>201</ymax>
+            <xmin>7</xmin>
+            <ymin>215</ymin>
+            <xmax>50</xmax>
+            <ymax>256</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,10 +27,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>31</xmin>
-            <ymin>186</ymin>
-            <xmax>48</xmax>
-            <ymax>205</ymax>
+            <xmin>64</xmin>
+            <ymin>190</ymin>
+            <xmax>92</xmax>
+            <ymax>219</ymax>
         </bndbox>
     </object>
     <object>
@@ -40,10 +40,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>67</xmin>
-            <ymin>181</ymin>
-            <xmax>74</xmax>
-            <ymax>193</ymax>
+            <xmin>96</xmin>
+            <ymin>161</ymin>
+            <xmax>148</xmax>
+            <ymax>220</ymax>
         </bndbox>
     </object>
     <object>
@@ -53,23 +53,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>97</xmin>
-            <ymin>194</ymin>
-            <xmax>113</xmax>
-            <ymax>210</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>without_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>126</xmin>
-            <ymin>146</ymin>
-            <xmax>136</xmax>
-            <ymax>158</ymax>
+            <xmin>183</xmin>
+            <ymin>137</ymin>
+            <xmax>214</xmax>
+            <ymax>179</ymax>
         </bndbox>
     </object>
     <object>
@@ -79,36 +66,23 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>135</xmin>
-            <ymin>150</ymin>
-            <xmax>149</xmax>
-            <ymax>163</ymax>
+            <xmin>120</xmin>
+            <ymin>53</ymin>
+            <xmax>138</xmax>
+            <ymax>72</ymax>
         </bndbox>
     </object>
     <object>
-        <name>mask_weared_incorrect</name>
+        <name>with_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
             <xmin>153</xmin>
-            <ymin>155</ymin>
-            <xmax>165</xmax>
-            <ymax>165</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>without_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>142</xmin>
-            <ymin>171</ymin>
-            <xmax>155</xmax>
-            <ymax>185</ymax>
+            <ymin>22</ymin>
+            <xmax>168</xmax>
+            <ymax>37</ymax>
         </bndbox>
     </object>
     <object>
@@ -118,49 +92,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>122</xmin>
-            <ymin>181</ymin>
-            <xmax>137</xmax>
-            <ymax>194</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>159</xmin>
-            <ymin>173</ymin>
-            <xmax>174</xmax>
-            <ymax>189</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>176</xmin>
-            <ymin>159</ymin>
-            <xmax>190</xmax>
-            <ymax>176</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>214</xmin>
-            <ymin>153</ymin>
-            <xmax>226</xmax>
-            <ymax>165</ymax>
+            <xmin>163</xmin>
+            <ymin>55</ymin>
+            <xmax>177</xmax>
+            <ymax>73</ymax>
         </bndbox>
     </object>
     <object>
@@ -171,9 +106,9 @@
         <difficult>0</difficult>
         <bndbox>
             <xmin>194</xmin>
-            <ymin>179</ymin>
-            <xmax>210</xmax>
-            <ymax>196</ymax>
+            <ymin>31</ymin>
+            <xmax>206</xmax>
+            <ymax>42</ymax>
         </bndbox>
     </object>
     <object>
@@ -183,10 +118,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>203</xmin>
-            <ymin>197</ymin>
-            <xmax>220</xmax>
-            <ymax>217</ymax>
+            <xmin>230</xmin>
+            <ymin>32</ymin>
+            <xmax>245</xmax>
+            <ymax>48</ymax>
         </bndbox>
     </object>
     <object>
@@ -196,10 +131,36 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>233</xmin>
-            <ymin>148</ymin>
-            <xmax>248</xmax>
-            <ymax>164</ymax>
+            <xmin>219</xmin>
+            <ymin>88</ymin>
+            <xmax>234</xmax>
+            <ymax>105</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>257</xmin>
+            <ymin>124</ymin>
+            <xmax>298</xmax>
+            <ymax>165</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>296</xmin>
+            <ymin>43</ymin>
+            <xmax>310</xmax>
+            <ymax>57</ymax>
         </bndbox>
     </object>
     <object>
@@ -209,88 +170,36 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>221</xmin>
-            <ymin>248</ymin>
-            <xmax>240</xmax>
-            <ymax>267</ymax>
+            <xmin>332</xmin>
+            <ymin>81</ymin>
+            <xmax>347</xmax>
+            <ymax>96</ymax>
         </bndbox>
     </object>
     <object>
-        <name>with_mask</name>
+        <name>without_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>222</xmin>
-            <ymin>125</ymin>
-            <xmax>233</xmax>
-            <ymax>135</ymax>
+            <xmin>259</xmin>
+            <ymin>44</ymin>
+            <xmax>274</xmax>
+            <ymax>60</ymax>
         </bndbox>
     </object>
     <object>
-        <name>with_mask</name>
+        <name>without_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>201</xmin>
-            <ymin>115</ymin>
-            <xmax>210</xmax>
-            <ymax>126</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>242</xmin>
-            <ymin>126</ymin>
-            <xmax>252</xmax>
-            <ymax>137</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>287</xmin>
-            <ymin>106</ymin>
-            <xmax>297</xmax>
-            <ymax>116</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>312</xmin>
-            <ymin>110</ymin>
-            <xmax>319</xmax>
-            <ymax>118</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>358</xmin>
-            <ymin>130</ymin>
-            <xmax>368</xmax>
-            <ymax>139</ymax>
+            <xmin>170</xmin>
+            <ymin>108</ymin>
+            <xmax>189</xmax>
+            <ymax>127</ymax>
         </bndbox>
     </object>
 </annotation>

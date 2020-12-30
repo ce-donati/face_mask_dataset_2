@@ -3,7 +3,7 @@
     <filename>199.png</filename>
     <size>
         <width>400</width>
-        <height>216</height>
+        <height>226</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>282</xmin>
-            <ymin>39</ymin>
-            <xmax>321</xmax>
-            <ymax>84</ymax>
+            <xmin>150</xmin>
+            <ymin>26</ymin>
+            <xmax>193</xmax>
+            <ymax>86</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,36 +27,23 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>230</xmin>
-            <ymin>34</ymin>
-            <xmax>264</xmax>
-            <ymax>69</ymax>
+            <xmin>204</xmin>
+            <ymin>127</ymin>
+            <xmax>245</xmax>
+            <ymax>175</ymax>
         </bndbox>
     </object>
     <object>
-        <name>with_mask</name>
+        <name>without_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>194</xmin>
-            <ymin>60</ymin>
-            <xmax>232</xmax>
-            <ymax>101</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>99</xmin>
-            <ymin>50</ymin>
-            <xmax>150</xmax>
-            <ymax>99</ymax>
+            <xmin>274</xmin>
+            <ymin>51</ymin>
+            <xmax>286</xmax>
+            <ymax>72</ymax>
         </bndbox>
     </object>
 </annotation>

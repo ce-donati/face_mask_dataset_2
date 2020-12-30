@@ -2,61 +2,22 @@
     <folder>images</folder>
     <filename>337.png</filename>
     <size>
-        <width>400</width>
-        <height>226</height>
+        <width>301</width>
+        <height>400</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-        <name>with_mask</name>
+        <name>without_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>32</xmin>
-            <ymin>35</ymin>
-            <xmax>89</xmax>
-            <ymax>96</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>241</xmin>
-            <ymin>56</ymin>
-            <xmax>261</xmax>
-            <ymax>77</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>336</xmin>
-            <ymin>47</ymin>
-            <xmax>367</xmax>
-            <ymax>80</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>186</xmin>
-            <ymin>62</ymin>
-            <xmax>200</xmax>
-            <ymax>93</ymax>
+            <xmin>104</xmin>
+            <ymin>182</ymin>
+            <xmax>220</xmax>
+            <ymax>317</ymax>
         </bndbox>
     </object>
 </annotation>
